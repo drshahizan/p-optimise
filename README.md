@@ -11,7 +11,7 @@
 📊 Web-based platform to manage and monitor the implementation of ISO 50001 (Energy Management System).  
 This repository includes development progress, documentation references, UI/UX design files, and shared collaboration links.
 
----
+
 
 ## 🔗 Project Links
 
@@ -21,9 +21,6 @@ This repository includes development progress, documentation references, UI/UX d
 | 📁 Shared Folder | _Shared via Google Drive with Optimise team_                        |
 | 🎓 User Matrix | _Included in shared folder_                                           |
 | 🎨 Figma Design | [Figma - OPTIMISE ISO 50001](https://www.figma.com/design/APwwHlkPntSo4tMYO2dprU/OPTIMISE-ISO-50001?node-id=305-4714&t=WU3Qj3T31TBrwrcV-1) |
-| 💻 Repository  | [GitHub Repo](https://github.com/drshahizan/optimise)               |
-
----
 
 ## 📁 Folder Structure
 
