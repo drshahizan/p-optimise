@@ -31,8 +31,6 @@ This repository includes development progress, documentation references, UI/UX d
 | `/docs`      | ISO 50001 documentation, user matrix, guidelines |
 | `/design`    | Assets: icons, images, components (SVG, PNG, etc)|
 
----
-
 ## 👥 User Credentials for Demo
 
 | Role              | Email                    | Password       |
@@ -40,8 +38,6 @@ This repository includes development progress, documentation references, UI/UX d
 | Super Admin       | `superadmin@demo.com`     | `password123`  |
 | Top Management    | `manager@demo.com`        | `password123`  |
 | Internal REM      | `rem@demo.com`            | `password123`  |
-
----
 
 ## ✅ Progress Update  
 To be reviewed:
@@ -53,15 +49,12 @@ To be reviewed:
 - [ ] Stakeholder view integration (in progress)  
 - [ ] Data validation on user input (to be tested)
 
----
 
 ## 📌 Notes
 
 - Please ensure all updates are pushed before **Monday 6PM** for Tuesday review.
 - UI alignment should match [Figma Design Specs](https://www.figma.com/design/APwwHlkPntSo4tMYO2dprU/OPTIMISE-ISO-50001).
 - Shared folder and documentation must be reviewed before stakeholder submission.
-
----
 
 ### 📬 Contact
 
